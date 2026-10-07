@@ -1,0 +1,8 @@
+{"name": "ferouz", "id": "583a7cd5-e58f-8ad9-be72-709366f1f7d9"}
+{"id": "e3684bfb-72b0-8bbf-ae77-4bcd21b8a2e7", "type": "xiaomi", "owner": "adlan", "technician": {"name": "ferouz", "id": "583a7cd5-e58f-8ad9-be72-709366f1f7d9"}, "fault": "charging"}
+{"id": "5ae8bed8-103f-8003-9012-30ce0d66442e", "type": "red", "owner": "owebuto", "technician": {"name": "ferouz", "id": "583a7cd5-e58f-8ad9-be72-709366f1f7d9"}, "fault": "adaf"}
+{"id": "9f984149-b0a0-8cc4-81d2-2cf082a1549c", "type": "sdg", "owner": "sdf", "technician": {"name": "ferouz", "id": "583a7cd5-e58f-8ad9-be72-709366f1f7d9"}, "fault": "agawe"}
+{"id": "2b2e1f9f-bf00-837c-8e7c-fe72083f80e6", "type": "asg", "owner": "asdfa", "technician": {"name": "ferouz", "id": "583a7cd5-e58f-8ad9-be72-709366f1f7d9"}, "fault": "asdfga"}
+{"id": "4d852352-58e8-87e2-aee8-8b5baae21ff9", "type": "gr", "owner": "asdga", "technician": {"name": "ferouz", "id": "583a7cd5-e58f-8ad9-be72-709366f1f7d9"}, "fault": "sdg"}
+{"id": "c93a72e7-edad-4c20-ad48-5688a560d2b6", "name": "ferouz", "email": "ferouzkassim@gmail.com", "phone": "070"}
+{"id": "869e4ee5-eb3e-4f04-bad6-f417d5954fc0", "name": "ferouz", "email": "kassim@mail.com", "phone": "080", "device": {"id": "58fb21aa-355d-4989-bd1a-194519a06d5e", "type": "tec", "fault": "chargin", "owner": "kassim@mail.com", "brought_at": "2026-10-05 13:35:52 UTC"}}
