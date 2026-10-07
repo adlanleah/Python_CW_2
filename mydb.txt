@@ -6,3 +6,4 @@
 {"id": "4d852352-58e8-87e2-aee8-8b5baae21ff9", "type": "gr", "owner": "asdga", "technician": {"name": "ferouz", "id": "583a7cd5-e58f-8ad9-be72-709366f1f7d9"}, "fault": "sdg"}
 {"id": "c93a72e7-edad-4c20-ad48-5688a560d2b6", "name": "ferouz", "email": "ferouzkassim@gmail.com", "phone": "070"}
 {"id": "869e4ee5-eb3e-4f04-bad6-f417d5954fc0", "name": "ferouz", "email": "kassim@mail.com", "phone": "080", "device": {"id": "58fb21aa-355d-4989-bd1a-194519a06d5e", "type": "tec", "fault": "chargin", "owner": "kassim@mail.com", "brought_at": "2026-10-05 13:35:52 UTC"}}
+{"id": "88fd87d7-03ed-4b3b-81b1-95b1197f2acc", "name": "Adlan", "email": "adlanleah01@gmail.com", "phone": "0778514994", "device": {"id": "1cb453e9-774c-40ac-9812-230a7f43146b", "type": "Iphone 13", "fault": "Bloating battery", "owner": "adlanleah01@gmail.com", "brought_at": "2026-10-07 12:45:42 UTC"}}
